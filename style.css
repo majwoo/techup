@@ -1,0 +1,17 @@
+.title {
+    color:cornflowerblue;
+    background-color: aliceblue;
+    font-size: x-large;
+
+    text-align: center;
+    border: 5px rgb(176, 227, 244) solid;
+
+    margin-bottom: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+} 
+
+#important {
+    color: rgb(62, 120, 168);
+}
