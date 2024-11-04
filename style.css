@@ -1,10 +1,11 @@
 .title {
     color:cornflowerblue;
     background-color: aliceblue;
-    font-size: x-large;
+    font-size:xx-large;
+    font-family: Trebuchet MS;
 
     text-align: center;
-    border: 5px rgb(176, 227, 244) solid;
+    border: 10px rgb(71, 207, 228) dotted;
 
     margin-bottom: 100px;
     padding-top: 20px;
@@ -14,4 +15,9 @@
 
 #important {
     color: rgb(62, 120, 168);
+}
+
+.body {
+    font-family: Trebuchet MS;
+    font-size:medium;
 }
